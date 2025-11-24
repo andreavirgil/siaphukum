@@ -1,13 +1,18 @@
-# LAB Bakery
+# SIAP! Hukum
 
-This project is a bakery website developed using HTML, DaisyUI, and JavaScript.  
-It provides a clean and modern interface to showcase bakery products and store information.
+SIAP! Hukum is a digital legal archive website, which stands for Sistem Informasi Arsip Produk Hukum (Legal Product Archive Information System). This website using HTML, Bootstrap, PHP and Javascript.
 
 ## Features
 
-- **About Store:** Learn more about the bakery, its history, and its values.
-- **Product Catalog:** Browse various bakery products with images.
-- **Contact:** Users can find contact details or submit inquiries through a contact form.
+- **Login & Logout**
+- **Dashboard**
+- **Add Document** 
+- **Update Document**
+- **Detail Document**
+- **Delete Document**
+- **Add User** 
+- **Update User**
+- **Delete User**
 
 ## Technologies Used
 
@@ -20,6 +25,6 @@ It provides a clean and modern interface to showcase bakery products and store i
 
 You can run this project locally with the following steps:
 
-1. Download or clone the repository
-3. Open the `index.html` file in your browser.
-
+1. Download or clone the repository.
+2. Import database hukumsiap.sql in XAMPP/Lagaron
+3. Open the `localhost/hukumssiap/login.php` file in your browser.
