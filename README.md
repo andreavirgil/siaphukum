@@ -29,4 +29,4 @@ You can run this project locally with the following steps:
 2. Import database hukumsiap.sql in XAMPP/Lagaron
 3. Open the `localhost/hukumssiap/login.php` file in your browser.
 
-** Due to a technical error, the database will be uploaded later. **
+**Due to a technical error, the database will be uploaded later.**
